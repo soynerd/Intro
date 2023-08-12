@@ -131,7 +131,7 @@
 /* section_4 */
 .foot{
     background-color: #FFD9C0;
-    height: 250px;
+    height: 225px;
     padding-top: 2.5rem;
 }
 
@@ -162,3 +162,11 @@
     margin-top: -125px;
 
 } 
+
+footer {
+    font-size: 0.9rem;
+    position:static;
+    bottom: 0;
+    text-align: left;
+    background-color: #FFD9C0;
+}
